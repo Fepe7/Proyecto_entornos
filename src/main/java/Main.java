@@ -30,6 +30,7 @@ public class Main {
 
 
 
+
     public static void main(String[] args) {
         System.out.println("Este codigo es para el proyecto de practicas de programacion");
         System.out.println("===========================================================================");
